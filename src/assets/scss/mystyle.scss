@@ -184,11 +184,35 @@ body {
   flex-direction: column;
   margin-top: auto;
   .chatarea {
-    height: 90vh;
+    height: calc(100vh - 120px);
   }
   .send_wrapper {
     padding: 1rem;
     border-top: 1px solid grey;
+    select {
+      border-radius: 0;
+      border: 0;
+      padding: 5px 10px;
+    }
+    input {
+      border: 1px solid grey;
+      background-color: #2d2d2d;
+      outline: 0;
+      color: rgb(155, 155, 155);
+      padding: 4px 8px;
+      width: 100%;
+    }
+    button {
+      width: fit-content !important;
+      border: 0;
+      color: white;
+      background-color: $primaryTeal;
+      padding: 0.3rem 1rem;
+      font-weight: 500;
+      &:hover {
+        background-color: $lightTeal;
+      }
+    }
   }
 }
 
@@ -203,5 +227,8 @@ body {
   }
   .side_nav {
     display: none;
+  }
+  .chatarea {
+    height: calc(100vh - 193px) !important;
   }
 }

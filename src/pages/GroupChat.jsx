@@ -20,7 +20,7 @@ function GroupChat() {
               <option value="User4">User4</option>
             </select>
           </div>
-          <div>
+          <div className="d-flex">
             <input type="text" />
             <button>Send</button>
           </div>
