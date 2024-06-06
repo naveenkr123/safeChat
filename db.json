@@ -1,0 +1,392 @@
+{
+  "soloChat": [
+    {
+      "timestamp": "20:00",
+      "username": "StellarStorm",
+      "message": "Just witnessed the most incredible meteor shower. The sky was lit up with streaks of light, it was absolutely magical. Definitely a night to remember.",
+      "id": "693d"
+    },
+    {
+      "timestamp": "20:05",
+      "username": "EchoEagle",
+      "message": "Picked up a new hobby today: archery! It’s so exhilarating and challenging. Can’t wait to get better at it and hit the bullseye consistently.",
+      "id": "a423"
+    },
+    {
+      "timestamp": "20:10",
+      "username": "FrostByte",
+      "message": "Built a snow fort with my neighbors today. It's like we're kids again, having snowball fights and making snow angels. Winter fun at its best!",
+      "id": "c93e"
+    },
+    {
+      "timestamp": "20:15",
+      "username": "NovaKnight",
+      "message": "Started reading this amazing fantasy series. The world-building is top-notch, and the characters are so well-developed. I’m completely hooked.",
+      "id": "7770"
+    },
+    {
+      "timestamp": "20:20",
+      "username": "BlitzBear",
+      "message": "Just came back from a run in the park. The fresh air and the scenery were exactly what I needed to clear my mind and re-energize.",
+      "id": "22c5"
+    },
+    {
+      "timestamp": "20:25",
+      "username": "CosmicCrusader",
+      "message": "Had the most delicious homemade lasagna for dinner. The layers of cheese, pasta, and sauce were perfect. Might have to make this a regular thing!",
+      "id": "ace8"
+    },
+    {
+      "timestamp": "20:30",
+      "username": "ZephyrZebra",
+      "message": "Got to try out virtual reality for the first time today. It was mind-blowing! Felt like I was actually in another world. Definitely need to explore this more.",
+      "id": "d811"
+    },
+    {
+      "timestamp": "20:35",
+      "username": "ThunderTalon",
+      "message": "Went hiking up to the old mountain trail and the view from the top was breathtaking. The effort was totally worth it. Feeling so accomplished and at peace.",
+      "id": "1acb"
+    },
+    {
+      "timestamp": "20:40",
+      "username": "AquaPhantom",
+      "message": "Spent the afternoon at the beach, just listening to the waves and soaking up the sun. Sometimes, it's the simple pleasures that are the most rejuvenating.",
+      "id": "fc4e"
+    },
+    {
+      "timestamp": "20:45",
+      "username": "CyberCheetah",
+      "message": "Tried coding a new project today, and it’s coming along great. Learning so many new things. It's challenging, but also incredibly rewarding.",
+      "id": "0998"
+    },
+    {
+      "timestamp": "20:50",
+      "username": "PhoenixFlare",
+      "message": "Watched an incredible documentary about space exploration. The universe is so vast and mysterious. It really puts things into perspective.",
+      "id": "a4e9"
+    },
+    {
+      "timestamp": "20:55",
+      "username": "IronGryphon",
+      "message": "Had a great workout session today. Pushed my limits and felt the burn. It’s amazing what our bodies are capable of with a little bit of effort.",
+      "id": "40d9"
+    },
+    {
+      "timestamp": "21:00",
+      "username": "NebulaNinja",
+      "message": "Just finished painting a new piece. It’s a mix of vibrant colors and abstract patterns. Art is such a great way to express oneself.",
+      "id": "6a3b"
+    },
+    {
+      "timestamp": "21:05",
+      "username": "AuroraFalcon",
+      "message": "Cooked a new dish tonight: Thai green curry. The flavors were out of this world. I love experimenting with different cuisines.",
+      "id": "323a"
+    },
+    {
+      "timestamp": "21:10",
+      "username": "EclipseWolf",
+      "message": "Spent the evening stargazing with my telescope. The night sky is so full of wonders. Spotted a couple of planets and constellations.",
+      "id": "ce81"
+    },
+    {
+      "timestamp": "21:15",
+      "username": "VortexViper",
+      "message": "Just got back from a spontaneous road trip. Sometimes, the best adventures are the unplanned ones. Saw some beautiful places and met interesting people.",
+      "id": "17dc"
+    },
+    {
+      "timestamp": "21:20",
+      "username": "CrystalRaven",
+      "message": "Attended a virtual concert today. The music was phenomenal, and it almost felt like being there in person. Technology is amazing.",
+      "id": "f0f6"
+    },
+    {
+      "timestamp": "21:25",
+      "username": "LunarLynx",
+      "message": "Adopted a new kitten today. She’s so tiny and adorable. Can’t wait to see her grow and become part of the family.",
+      "id": "2cc7"
+    },
+    {
+      "timestamp": "21:30",
+      "username": "MeteorMantis",
+      "message": "Baked a batch of chocolate chip cookies. The whole house smells like chocolate now. There’s nothing quite like a warm, freshly baked cookie.",
+      "id": "7bce"
+    }
+  ],
+  "chatroom": [
+    {
+      "timestamp": "19:30",
+      "username": "Admin",
+      "message": "welcome to chatroom",
+      "id": "355c"
+    },
+    {
+      "id": "5e40",
+      "username": "user",
+      "timestamp": "12:10",
+      "message": "hi"
+    },
+    {
+      "id": "c011",
+      "username": "user",
+      "timestamp": "12:10",
+      "message": "hi"
+    },
+    {
+      "id": "5b55",
+      "username": "user",
+      "timestamp": "12:13",
+      "message": "apple"
+    },
+    {
+      "id": "76c0",
+      "username": "user",
+      "timestamp": "12:14",
+      "message": "s"
+    },
+    {
+      "id": "1b31",
+      "username": "user",
+      "timestamp": "12:14",
+      "message": "s"
+    },
+    {
+      "id": "84d0",
+      "username": "user",
+      "timestamp": "13:10",
+      "message": "rtyrt"
+    },
+    {
+      "id": "526d",
+      "username": "user",
+      "timestamp": "13:10",
+      "message": "ryrty"
+    },
+    {
+      "id": "b563",
+      "username": "vera",
+      "timestamp": "16:33",
+      "message": "hi"
+    },
+    {
+      "id": "ec93",
+      "username": "user",
+      "timestamp": "16:39",
+      "message": "dsfsd"
+    },
+    {
+      "id": "afbe",
+      "username": "vera",
+      "timestamp": "16:54",
+      "message": "a"
+    },
+    {
+      "id": "8ea8",
+      "username": "vera",
+      "timestamp": "16:54",
+      "message": "h"
+    },
+    {
+      "id": "c029",
+      "username": "vera",
+      "timestamp": "16:56",
+      "message": "dfgdf"
+    },
+    {
+      "id": "3b82",
+      "username": "rr",
+      "timestamp": "17:02",
+      "message": "rr"
+    },
+    {
+      "id": "6bda",
+      "username": "",
+      "timestamp": "17:05",
+      "message": "dfgsd"
+    },
+    {
+      "id": "638a",
+      "username": "gfs",
+      "timestamp": "17:08",
+      "message": "sfsd"
+    },
+    {
+      "id": "3815",
+      "username": "sdf",
+      "timestamp": "17:08",
+      "message": "sdfsd"
+    },
+    {
+      "id": "a885",
+      "username": "sdf",
+      "timestamp": "17:09",
+      "message": "sdfsd"
+    },
+    {
+      "id": "80d8",
+      "username": "sdf",
+      "timestamp": "17:09",
+      "message": "sdfsdf"
+    },
+    {
+      "id": "5617",
+      "username": "sdf",
+      "timestamp": "17:09",
+      "message": "sdfsdffsfsfsdfsdf"
+    },
+    {
+      "id": "34a9",
+      "username": "z",
+      "timestamp": "17:11",
+      "message": "sdfsd"
+    },
+    {
+      "id": "3145",
+      "username": "shivam",
+      "timestamp": "17:22",
+      "message": "vhs"
+    },
+    {
+      "id": "46d5",
+      "username": "shivam",
+      "timestamp": "17:22",
+      "message": "hus"
+    },
+    {
+      "id": "7a6a",
+      "username": "Naveen",
+      "timestamp": "17:22",
+      "message": "Hi"
+    },
+    {
+      "id": "2ea6",
+      "username": "Naveen",
+      "timestamp": "17:23",
+      "message": "Hh"
+    },
+    {
+      "id": "c9c3",
+      "username": "a",
+      "timestamp": "17:23",
+      "message": "hht"
+    },
+    {
+      "id": "a4b4",
+      "username": "Naveen",
+      "timestamp": "17:24",
+      "message": "Hi"
+    },
+    {
+      "id": "135e",
+      "username": "a",
+      "timestamp": "17:24",
+      "message": "likh ke bhejo"
+    },
+    {
+      "id": "d638",
+      "username": "Naveen",
+      "timestamp": "17:24",
+      "message": "Acha"
+    },
+    {
+      "id": "f5e4",
+      "username": "a",
+      "timestamp": "17:24",
+      "message": "nhi"
+    },
+    {
+      "id": "7fea",
+      "username": "Naveen",
+      "timestamp": "17:24",
+      "message": "Aa rhe ho online??"
+    },
+    {
+      "id": "4908",
+      "username": "a",
+      "timestamp": "17:24",
+      "message": "likh ke bhejo"
+    },
+    {
+      "id": "29da",
+      "username": "Naveen",
+      "timestamp": "17:24",
+      "message": "Acha"
+    },
+    {
+      "id": "6ed3",
+      "username": "a",
+      "timestamp": "17:25",
+      "message": "likh ke bhejo type krke nhi"
+    },
+    {
+      "id": "bee7",
+      "username": "Naveen",
+      "timestamp": "17:25",
+      "message": "Wo toh nhi hota"
+    },
+    {
+      "id": "a1ef",
+      "username": "a",
+      "timestamp": "17:25",
+      "message": "to bolo "
+    },
+    {
+      "id": "e324",
+      "username": "Naveen",
+      "timestamp": "17:25",
+      "message": "Voice chat ka option abhi add nhi hua hai "
+    },
+    {
+      "id": "da15",
+      "username": "Naveen",
+      "timestamp": "17:26",
+      "message": "But next update mein try krta hu"
+    },
+    {
+      "id": "9596",
+      "username": "a",
+      "timestamp": "17:26",
+      "message": "likhna nhi ata kya"
+    },
+    {
+      "id": "6043",
+      "username": "a",
+      "timestamp": "17:26",
+      "message": "okay👌"
+    },
+    {
+      "id": "fb7c",
+      "username": "Naveen",
+      "timestamp": "17:26",
+      "message": "😂😂😂😂"
+    },
+    {
+      "id": "98ae",
+      "username": "Naveen",
+      "timestamp": "17:27",
+      "message": "Ttdd"
+    },
+    {
+      "id": "0e0f",
+      "username": "j",
+      "timestamp": "17:48",
+      "message": "gdfdfg"
+    }
+  ],
+  "nsfw": [
+    {
+      "timestamp": "19:30",
+      "username": "Admin",
+      "message": "welcome to NSFW Chatroom",
+      "id": "53ea"
+    },
+    {
+      "id": "520a",
+      "username": "d",
+      "timestamp": "18:02",
+      "message": "fy"
+    }
+  ]
+}

@@ -4,12 +4,13 @@ import "../src/assets/scss/mystyle.scss";
 import App from "./App";
 import "bootstrap/dist/css/bootstrap.min.css";
 import reportWebVitals from "./reportWebVitals";
+import { AppProvider } from "./pages/AppContext";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <React.StrictMode>
+  <AppProvider>
     <App />
-  </React.StrictMode>
+  </AppProvider>
 );
 
 reportWebVitals();
